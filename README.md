@@ -1,5 +1,5 @@
 # Zero degrees. Mentored by myself.
-Iʼm a self-taught student from **Finland**, whoʼs insterested in Web development, Search engine optimization, Software engineering, System administration and [Information security](https://en.wikipedia.org/wiki/Information_security). 
+Iʼm a self-taught student from **Russia**, whoʼs insterested in Web development, Search engine optimization, Software engineering, System administration and [Information security](https://en.wikipedia.org/wiki/Information_security). 
 
 ## Socials
 + ![Discord](https://i.ibb.co/7j29n15/Discord.png) __Discord__ ― [shialex#8368]()
